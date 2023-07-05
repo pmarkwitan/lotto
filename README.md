@@ -11,3 +11,4 @@ public static byte[][] testoweLosowanie(int liczbaGraczy) {
 	return wylosowaneLiczbyGraczy;
 }
 ```
+A to pierwszy dodany zdalnie wpis.
